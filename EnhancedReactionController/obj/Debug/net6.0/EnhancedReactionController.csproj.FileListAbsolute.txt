@@ -1,0 +1,15 @@
+/Users/dayashankar/Documents/OOP/EnhancedReactionController/obj/Debug/net6.0/EnhancedReactionController.csproj.AssemblyReference.cache
+/Users/dayashankar/Documents/OOP/EnhancedReactionController/obj/Debug/net6.0/EnhancedReactionController.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dayashankar/Documents/OOP/EnhancedReactionController/obj/Debug/net6.0/EnhancedReactionController.AssemblyInfoInputs.cache
+/Users/dayashankar/Documents/OOP/EnhancedReactionController/obj/Debug/net6.0/EnhancedReactionController.AssemblyInfo.cs
+/Users/dayashankar/Documents/OOP/EnhancedReactionController/obj/Debug/net6.0/EnhancedReactionController.csproj.CoreCompileInputs.cache
+/Users/dayashankar/Documents/OOP/EnhancedReactionController/bin/Debug/net6.0/EnhancedReactionController
+/Users/dayashankar/Documents/OOP/EnhancedReactionController/bin/Debug/net6.0/EnhancedReactionController.deps.json
+/Users/dayashankar/Documents/OOP/EnhancedReactionController/bin/Debug/net6.0/EnhancedReactionController.runtimeconfig.json
+/Users/dayashankar/Documents/OOP/EnhancedReactionController/bin/Debug/net6.0/EnhancedReactionController.dll
+/Users/dayashankar/Documents/OOP/EnhancedReactionController/bin/Debug/net6.0/EnhancedReactionController.pdb
+/Users/dayashankar/Documents/OOP/EnhancedReactionController/obj/Debug/net6.0/EnhancedReactionController.dll
+/Users/dayashankar/Documents/OOP/EnhancedReactionController/obj/Debug/net6.0/refint/EnhancedReactionController.dll
+/Users/dayashankar/Documents/OOP/EnhancedReactionController/obj/Debug/net6.0/EnhancedReactionController.pdb
+/Users/dayashankar/Documents/OOP/EnhancedReactionController/obj/Debug/net6.0/EnhancedReactionController.genruntimeconfig.cache
+/Users/dayashankar/Documents/OOP/EnhancedReactionController/obj/Debug/net6.0/ref/EnhancedReactionController.dll
